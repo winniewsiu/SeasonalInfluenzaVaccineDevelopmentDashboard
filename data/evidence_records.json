@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "FLU-MRNA1010-P304-NEJM-2026",
+    "title": "Efficacy and safety of mRNA-1010 versus licensed influenza vaccines in adults ≥50 years",
+    "product_id": "moderna-mrna-1010",
+    "product": "mFLUSIVA / mRNA-1010",
+    "developer": "Moderna",
+    "platform": "mRNA",
+    "development_stage": "Regulatory review / phase 3 evidence",
+    "jurisdictions": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Australia",
+      "Global"
+    ],
+    "evidence_domain": "Clinical efficacy",
+    "evidence_type": "Phase 3 / randomized trial",
+    "population": "Adults ≥50 years",
+    "outcomes": [
+      "RT-PCR-confirmed influenza-like illness",
+      "relative vaccine efficacy",
+      "non-inferiority",
+      "superiority",
+      "safety"
+    ],
+    "source_group": "Peer-reviewed",
+    "source_title": "Efficacy and Safety of an mRNA Seasonal Influenza Vaccine in Adults",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/42090792/",
+    "source_date": "2026-05-07",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "Large phase 3 study reported fewer RT-PCR-confirmed influenza-like illness cases for mRNA-1010 than comparator vaccines in adults ≥50, meeting non-inferiority and superiority criteria; reactogenicity was higher than comparators.",
+    "tags": [
+      "phase 3",
+      "efficacy",
+      "mRNA",
+      "older adults",
+      "near-term availability"
+    ]
+  },
+  {
+    "id": "FLU-MRNA1010-P303-FDA-BRIEF-2026",
+    "title": "FDA briefing: mRNA-1010 immunogenicity compared with Fluzone High-Dose in adults ≥65 years",
+    "product_id": "moderna-mrna-1010",
+    "product": "mFLUSIVA / mRNA-1010",
+    "developer": "Moderna",
+    "platform": "mRNA",
+    "development_stage": "Regulatory review / phase 3 evidence",
+    "jurisdictions": [
+      "United States"
+    ],
+    "evidence_domain": "Immunogenicity",
+    "evidence_type": "Regulatory",
+    "population": "Adults ≥65 years",
+    "outcomes": [
+      "HAI geometric mean titers",
+      "seroconversion",
+      "high-dose comparator",
+      "regulatory review"
+    ],
+    "source_group": "Regulatory agency",
+    "source_title": "FDA VRBPAC briefing document for MFLUSIVA / mRNA-1010",
+    "source_url": "https://www.fda.gov/media/193130/download",
+    "source_date": "2026-06-18",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "FDA briefing material summarizes a phase 3 active-controlled immunogenicity study against Fluzone High-Dose in adults ≥65, including non-inferiority and superiority analyses.",
+    "tags": [
+      "FDA",
+      "VRBPAC",
+      "HAI",
+      "immunogenicity",
+      "≥65"
+    ]
+  },
+  {
+    "id": "FLU-MRNA1010-VRBPAC-2026",
+    "title": "FDA VRBPAC meeting announcement for MFLUSIVA BLA",
+    "product_id": "moderna-mrna-1010",
+    "product": "mFLUSIVA / mRNA-1010",
+    "developer": "Moderna",
+    "platform": "mRNA",
+    "development_stage": "Regulatory review / phase 3 evidence",
+    "jurisdictions": [
+      "United States"
+    ],
+    "evidence_domain": "Regulatory/policy",
+    "evidence_type": "Regulatory",
+    "population": "Persons ≥50 years",
+    "outcomes": [
+      "BLA review",
+      "proposed indication",
+      "advisory committee"
+    ],
+    "source_group": "Regulatory agency",
+    "source_title": "Vaccines and Related Biological Products Advisory Committee June 18, 2026 meeting announcement",
+    "source_url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-18-2026-meeting-announcement",
+    "source_date": "2026-06-18",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "The FDA advisory committee meeting concerns Moderna's BLA for MFLUSIVA, an mRNA influenza vaccine proposed for prevention of influenza disease in persons ≥50 years.",
+    "tags": [
+      "FDA",
+      "BLA",
+      "MFLUSIVA",
+      "regulatory"
+    ]
+  },
+  {
+    "id": "FLU-MRNA1010-GLOBAL-SUBMISSIONS-2026",
+    "title": "Global regulatory submissions for mRNA-1010",
+    "product_id": "moderna-mrna-1010",
+    "product": "mFLUSIVA / mRNA-1010",
+    "developer": "Moderna",
+    "platform": "mRNA",
+    "development_stage": "Regulatory review / phase 3 evidence",
+    "jurisdictions": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Australia"
+    ],
+    "evidence_domain": "Programmatic/access",
+    "evidence_type": "Regulatory",
+    "population": "Adults ≥50 years",
+    "outcomes": [
+      "marketing authorization application",
+      "BLA",
+      "availability signal"
+    ],
+    "source_group": "Developer communication",
+    "source_title": "Moderna announces global regulatory submissions for mRNA-1010",
+    "source_url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/moderna-announces-global-regulatory-submissions-for-its-investigation-1119545",
+    "source_date": "2026-01-05",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "Developer announcement reports regulatory submissions for investigational mRNA-1010 in the US, EU, Canada, and Australia, supporting prioritization for Canada/US/EU tracking.",
+    "tags": [
+      "submissions",
+      "Canada",
+      "EU",
+      "US",
+      "Australia"
+    ]
+  },
+  {
+    "id": "FLU-MRNA1010-CIDRAP-PIPELINE-2026",
+    "title": "CIDRAP technology landscape record for mRNA-1010",
+    "product_id": "moderna-mrna-1010",
+    "product": "mFLUSIVA / mRNA-1010",
+    "developer": "Moderna",
+    "platform": "mRNA",
+    "development_stage": "Regulatory review / phase 3 evidence",
+    "jurisdictions": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Asia",
+      "Australia",
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults ≥50 years; adults ≥65 years",
+    "outcomes": [
+      "pipeline status",
+      "clinical trial inventory",
+      "platform"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "Landscape entry classifies mRNA-1010 as an active nucleic-acid/mRNA seasonal candidate with completed phase 3 studies and reported results.",
+    "tags": [
+      "pipeline",
+      "landscape",
+      "active",
+      "phase 3"
+    ]
+  },
+  {
+    "id": "FLU-MCOMBRIAX-EMA-AUTH-2026",
+    "title": "EMA marketing authorization for mCOMBRIAX / mRNA-1083",
+    "product_id": "moderna-mrna-1083",
+    "product": "mCOMBRIAX / mRNA-1083",
+    "developer": "Moderna",
+    "platform": "mRNA combination",
+    "development_stage": "EU authorized; phase 3 evidence",
+    "jurisdictions": [
+      "European Union"
+    ],
+    "evidence_domain": "Regulatory/policy",
+    "evidence_type": "Regulatory",
+    "population": "Adults ≥50 years",
+    "outcomes": [
+      "marketing authorization",
+      "benefit-risk",
+      "COVID-19 and influenza prevention"
+    ],
+    "source_group": "Regulatory agency",
+    "source_title": "EMA EPAR: mCOMBRIAX",
+    "source_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mcombriax",
+    "source_date": "2026-04-20",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "EMA product page states mCOMBRIAX received EU-wide marketing authorization on April 20, 2026 for prevention of influenza disease and COVID-19 in adults ≥50.",
+    "tags": [
+      "EMA",
+      "EU authorization",
+      "combination",
+      "≥50"
+    ]
+  },
+  {
+    "id": "FLU-MCOMBRIAX-EMA-IMM-2026",
+    "title": "EMA assessment summary of mCOMBRIAX immune responses",
+    "product_id": "moderna-mrna-1083",
+    "product": "mCOMBRIAX / mRNA-1083",
+    "developer": "Moderna",
+    "platform": "mRNA combination",
+    "development_stage": "EU authorized; phase 3 evidence",
+    "jurisdictions": [
+      "European Union"
+    ],
+    "evidence_domain": "Immunogenicity",
+    "evidence_type": "Regulatory",
+    "population": "Adults ≥50 years",
+    "outcomes": [
+      "antibody response",
+      "non-inferiority to co-administered vaccines",
+      "benefit-risk"
+    ],
+    "source_group": "Regulatory agency",
+    "source_title": "EMA EPAR: mCOMBRIAX",
+    "source_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mcombriax",
+    "source_date": "2026-04-20",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "EMA summary reports antibody levels comparable to authorized COVID-19 and influenza vaccines administered together, with benefit-risk judged positive for adults ≥50.",
+    "tags": [
+      "EMA",
+      "antibody response",
+      "combination",
+      "coadministration"
+    ]
+  },
+  {
+    "id": "FLU-MRNA1083-CIDRAP-P3-2026",
+    "title": "CIDRAP pipeline and phase 3 trial summary for mRNA-1083",
+    "product_id": "moderna-mrna-1083",
+    "product": "mCOMBRIAX / mRNA-1083",
+    "developer": "Moderna",
+    "platform": "mRNA combination",
+    "development_stage": "EU authorized; phase 3 evidence",
+    "jurisdictions": [
+      "United States",
+      "European Union",
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults ≥50 years",
+    "outcomes": [
+      "phase 3 trial",
+      "pipeline status",
+      "combination vaccine"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "Landscape record describes mRNA-1083 as an active/approved combination candidate with phase 3 evidence in adults ≥50 and mRNA components for seasonal influenza HA and SARS-CoV-2 spike.",
+    "tags": [
+      "CIDRAP",
+      "mRNA-1083",
+      "combination",
+      "phase 3"
+    ]
+  },
+  {
+    "id": "FLU-PFIZER-MODFLU-P3-NEJM-2025",
+    "title": "Pfizer/BioNTech modified mRNA influenza vaccine phase 3 trial",
+    "product_id": "pfizer-biontech-modrna-flu",
+    "product": "Pfizer/BioNTech modified mRNA seasonal influenza vaccine",
+    "developer": "Pfizer / BioNTech",
+    "platform": "modified mRNA",
+    "development_stage": "Phase 3 completed; active follow-on phase 2 formulation work",
+    "jurisdictions": [
+      "United States",
+      "Global"
+    ],
+    "evidence_domain": "Clinical efficacy",
+    "evidence_type": "Phase 3 / randomized trial",
+    "population": "Adults ≥18 years",
+    "outcomes": [
+      "symptomatic influenza",
+      "relative vaccine efficacy",
+      "A/H3N2",
+      "A/H1N1",
+      "B lineage immune response"
+    ],
+    "source_group": "Peer-reviewed",
+    "source_title": "A Modified-RNA Influenza Vaccine in Adults 18 Years of Age or Older",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/41259756/",
+    "source_date": "2025-09-04",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "Phase 3 trial record should be tracked for overall efficacy and strain-specific immunogenicity, especially the gap between influenza A performance and B-lineage responses.",
+    "tags": [
+      "Pfizer",
+      "BioNTech",
+      "phase 3",
+      "mRNA",
+      "B lineage"
+    ]
+  },
+  {
+    "id": "FLU-PFIZER-MODFLU-CIDRAP-2026",
+    "title": "CIDRAP landscape record for Pfizer/BioNTech modified mRNA seasonal influenza vaccine",
+    "product_id": "pfizer-biontech-modrna-flu",
+    "product": "Pfizer/BioNTech modified mRNA seasonal influenza vaccine",
+    "developer": "Pfizer / BioNTech",
+    "platform": "modified mRNA",
+    "development_stage": "Phase 3 completed; active follow-on phase 2 formulation work",
+    "jurisdictions": [
+      "United States",
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "New Zealand",
+      "Philippines",
+      "South Africa",
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults and older adults",
+    "outcomes": [
+      "active status",
+      "completed phase 3",
+      "active phase 2"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "Landscape record lists the Pfizer/BioNTech modified mRNA seasonal influenza programme as active with completed phase 3 and further phase 2 studies.",
+    "tags": [
+      "pipeline",
+      "active",
+      "phase 3",
+      "phase 2"
+    ]
+  },
+  {
+    "id": "FLU-PFIZER-MODFLU-CHALLENGE-2026",
+    "title": "Pfizer/BioNTech modified mRNA influenza human challenge study",
+    "product_id": "pfizer-biontech-modrna-flu",
+    "product": "Pfizer/BioNTech modified mRNA seasonal influenza vaccine",
+    "developer": "Pfizer / BioNTech",
+    "platform": "modified mRNA",
+    "development_stage": "Phase 3 completed; active follow-on phase 2 formulation work",
+    "jurisdictions": [
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "evidence_domain": "Clinical efficacy",
+    "evidence_type": "Challenge study",
+    "population": "Healthy adults 18–49 years",
+    "outcomes": [
+      "challenge protection",
+      "strain-specific protection",
+      "formulation selection"
+    ],
+    "source_group": "Clinical trial registry",
+    "source_title": "ISRCTN13559330 challenge study as summarized in CIDRAP landscape",
+    "source_url": "https://www.isrctn.com/ISRCTN13559330",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Adult challenge evidence can help interpret efficacy, dose selection, and B-lineage/formulation questions for next-generation modified mRNA vaccines.",
+    "tags": [
+      "challenge",
+      "formulation",
+      "UK",
+      "Pfizer"
+    ]
+  },
+  {
+    "id": "FLU-PFIZER-COMBO-P3-UPDATE-2024",
+    "title": "Pfizer/BioNTech COVID-19 + influenza combination vaccine phase 3 update",
+    "product_id": "pfizer-biontech-combo",
+    "product": "Pfizer/BioNTech mRNA COVID-19 + influenza combination vaccine",
+    "developer": "Pfizer / BioNTech",
+    "platform": "modified mRNA combination",
+    "development_stage": "Phase 3 / formulation adjustment",
+    "jurisdictions": [
+      "United States",
+      "Global"
+    ],
+    "evidence_domain": "Immunogenicity",
+    "evidence_type": "Phase 3 / randomized trial",
+    "population": "Adults 18–64 years",
+    "outcomes": [
+      "immunogenicity",
+      "non-inferiority",
+      "influenza B response",
+      "COVID-19 response"
+    ],
+    "source_group": "Developer communication",
+    "source_title": "Pfizer/BioNTech update on mRNA-based combination vaccine program",
+    "source_url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-mrna-based-combination",
+    "source_date": "2024-08-16",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Sponsors reported that the phase 3 combination trial met one primary immunogenicity objective but did not meet the influenza B non-inferiority objective, prompting evaluation of candidate adjustments.",
+    "tags": [
+      "combination",
+      "phase 3",
+      "B lineage",
+      "immunogenicity"
+    ]
+  },
+  {
+    "id": "FLU-PFIZER-COMBO-CIDRAP-2026",
+    "title": "CIDRAP landscape record for Pfizer/BioNTech combination vaccine",
+    "product_id": "pfizer-biontech-combo",
+    "product": "Pfizer/BioNTech mRNA COVID-19 + influenza combination vaccine",
+    "developer": "Pfizer / BioNTech",
+    "platform": "modified mRNA combination",
+    "development_stage": "Phase 3 / formulation adjustment",
+    "jurisdictions": [
+      "United States",
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults and older adults",
+    "outcomes": [
+      "pipeline status",
+      "phase 3",
+      "combination vaccine"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Landscape record describes the candidate as an active phase 3 combination vaccine using mRNA encoding SARS-CoV-2 spike and seasonal influenza HA antigens.",
+    "tags": [
+      "combination",
+      "landscape",
+      "phase 3"
+    ]
+  },
+  {
+    "id": "FLU-GSK-MRNA-P2-HEADLINE-2024",
+    "title": "GSK phase 2 headline data for seasonal influenza mRNA programme",
+    "product_id": "gsk-gsk4382276",
+    "product": "GSK seasonal influenza mRNA vaccine programme / GSK4382276",
+    "developer": "GSK",
+    "platform": "mRNA",
+    "development_stage": "Phase 2; late-stage planning signal",
+    "jurisdictions": [
+      "United Kingdom",
+      "European Union",
+      "United States",
+      "Canada",
+      "Global"
+    ],
+    "evidence_domain": "Immunogenicity",
+    "evidence_type": "Phase 2",
+    "population": "Younger and older adults",
+    "outcomes": [
+      "immune response",
+      "standard-of-care comparator",
+      "phase 2 formulation"
+    ],
+    "source_group": "Developer communication",
+    "source_title": "GSK announces positive headline data from phase II seasonal influenza mRNA vaccine programme",
+    "source_url": "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-positive-headline-data-from-phase-ii-seasonal-influenza-mrna-vaccine-programme/",
+    "source_date": "2024-09-12",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "GSK reported positive phase 2 headline immunogenicity data for mRNA seasonal influenza formulations in younger and older adults; published phase 3 efficacy evidence remains a gap.",
+    "tags": [
+      "GSK",
+      "phase 2",
+      "mRNA",
+      "immunogenicity"
+    ]
+  },
+  {
+    "id": "FLU-GSK-FLUMHA-P1-PUBMED-2026",
+    "title": "First-in-human phase 1 study of GSK FLUmHA monovalent mRNA vaccine",
+    "product_id": "gsk-gsk4382276",
+    "product": "GSK seasonal influenza mRNA vaccine programme / GSK4382276",
+    "developer": "GSK",
+    "platform": "mRNA",
+    "development_stage": "Phase 2; late-stage planning signal",
+    "jurisdictions": [
+      "United States",
+      "European Union",
+      "Global"
+    ],
+    "evidence_domain": "Safety/reactogenicity",
+    "evidence_type": "Phase 1",
+    "population": "Adults",
+    "outcomes": [
+      "safety",
+      "reactogenicity",
+      "immunogenicity",
+      "dose selection"
+    ],
+    "source_group": "Peer-reviewed",
+    "source_title": "First-in-human phase 1 study of a monovalent mRNA influenza vaccine candidate",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/41701031/",
+    "source_date": "2026-03-01",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Early clinical evidence supports tracking of safety/reactogenicity and immune responses that informed progression to multivalent seasonal mRNA candidates.",
+    "tags": [
+      "GSK",
+      "phase 1",
+      "safety",
+      "reactogenicity"
+    ]
+  },
+  {
+    "id": "FLU-GSK-PIPELINE-2026",
+    "title": "GSK medical pipeline listing for GSK4382276",
+    "product_id": "gsk-gsk4382276",
+    "product": "GSK seasonal influenza mRNA vaccine programme / GSK4382276",
+    "developer": "GSK",
+    "platform": "mRNA",
+    "development_stage": "Phase 2; late-stage planning signal",
+    "jurisdictions": [
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults; paediatric and combination studies listed separately",
+    "outcomes": [
+      "pipeline status",
+      "trial portfolio",
+      "phase status"
+    ],
+    "source_group": "Developer communication",
+    "source_title": "GSK medical pipeline",
+    "source_url": "https://www.gsk.com/en-gb/innovation/product-pipeline/",
+    "source_date": "2026-07-03",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Pipeline listing can be used as a surveillance source for phase status and trial expansion for GSK seasonal mRNA influenza candidates.",
+    "tags": [
+      "pipeline",
+      "GSK4382276",
+      "phase 2"
+    ]
+  },
+  {
+    "id": "FLU-SANOFI-NOVAVAX-FASTTRACK-2024",
+    "title": "Sanofi/Novavax non-mRNA COVID-19 + influenza combination candidates receive FDA Fast Track designation",
+    "product_id": "sanofi-novavax-combo",
+    "product": "Sanofi + Novavax non-mRNA COVID-19 + influenza combination candidates",
+    "developer": "Sanofi / Novavax",
+    "platform": "recombinant protein / nanoparticle combination",
+    "development_stage": "Clinical development; FDA Fast Track designation reported",
+    "jurisdictions": [
+      "United States",
+      "Global"
+    ],
+    "evidence_domain": "Regulatory/policy",
+    "evidence_type": "Regulatory",
+    "population": "Adults; older adults depending trial",
+    "outcomes": [
+      "Fast Track designation",
+      "clinical development",
+      "combination vaccine"
+    ],
+    "source_group": "Developer communication",
+    "source_title": "Sanofi press release on Fast Track designation for two combination candidates",
+    "source_url": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-12-11-06-00-00-2995072",
+    "source_date": "2024-12-11",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Two candidates combining Sanofi influenza vaccines with Novavax COVID-19 antigen/adjuvant received FDA Fast Track designation, making them relevant to US availability and combination vaccination evidence.",
+    "tags": [
+      "Fast Track",
+      "combination",
+      "Sanofi",
+      "Novavax"
+    ]
+  },
+  {
+    "id": "FLU-NOVAVAX-TNIV-CIC-P3-2025",
+    "title": "Novavax stand-alone influenza and combination vaccine initial phase 3 cohort",
+    "product_id": "novavax-tniv-cic",
+    "product": "Novavax stand-alone influenza vaccine / COVID-19 influenza combination programme",
+    "developer": "Novavax",
+    "platform": "recombinant nanoparticle + Matrix-M adjuvant",
+    "development_stage": "Phase 2/3 evidence; available for partnership/no current investment signal",
+    "jurisdictions": [
+      "United States",
+      "Global"
+    ],
+    "evidence_domain": "Immunogenicity",
+    "evidence_type": "Phase 3 / randomized trial",
+    "population": "Adults ≥65 years",
+    "outcomes": [
+      "immune response",
+      "safety",
+      "CIC",
+      "stand-alone influenza"
+    ],
+    "source_group": "Developer communication",
+    "source_title": "Novavax phase 3 initial cohort announcement",
+    "source_url": "https://ir.novavax.com/press-releases/2025-06-11-Novavaxs-COVID-19-Influenza-Combination-and-Stand-alone-Influenza-Vaccine-Candidates-Showed-Robust-Immune-Responses-and-Were-Well-Tolerated-in-Initial-Cohort-of-a-Phase-3-Trial",
+    "source_date": "2025-06-11",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Watchlist",
+    "summary": "Company announcement reports robust immune responses and tolerability in an initial phase 3 cohort, but the programme's investment/partner status should be monitored before treating it as near-term available.",
+    "tags": [
+      "Novavax",
+      "phase 3",
+      "CIC",
+      "older adults"
+    ]
+  },
+  {
+    "id": "FLU-NOVAVAX-PROGRAM-STATUS-2026",
+    "title": "Novavax programme status: flu and combination vaccines available for partnership",
+    "product_id": "novavax-tniv-cic",
+    "product": "Novavax stand-alone influenza vaccine / COVID-19 influenza combination programme",
+    "developer": "Novavax",
+    "platform": "recombinant nanoparticle + Matrix-M adjuvant",
+    "development_stage": "Phase 2/3 evidence; available for partnership/no current investment signal",
+    "jurisdictions": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Global"
+    ],
+    "evidence_domain": "Programmatic/access",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults and older adults",
+    "outcomes": [
+      "partnering status",
+      "investment status",
+      "commercial pathway"
+    ],
+    "source_group": "Developer communication",
+    "source_title": "Novavax disease areas: COVID-19 and influenza",
+    "source_url": "https://www.novavax.com/disease-areas/covid-19-and-influenza",
+    "source_date": "2026-07-03",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Watchlist",
+    "summary": "Novavax's public programme page lists influenza and COVID-19/influenza combination programmes as phase 2/3 and available for partnership, with no current investment noted.",
+    "tags": [
+      "commercial pathway",
+      "partnership",
+      "watchlist"
+    ]
+  },
+  {
+    "id": "FLU-NOVAVAX-CIDRAP-STATIC-2026",
+    "title": "CIDRAP update flags Novavax Nano-Flu and CIC as inactive/static status changes",
+    "product_id": "novavax-tniv-cic",
+    "product": "Novavax stand-alone influenza vaccine / COVID-19 influenza combination programme",
+    "developer": "Novavax",
+    "platform": "recombinant nanoparticle + Matrix-M adjuvant",
+    "development_stage": "Phase 2/3 evidence; available for partnership/no current investment signal",
+    "jurisdictions": [
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults and older adults",
+    "outcomes": [
+      "status change",
+      "inactive/static",
+      "portfolio watchlist"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape update",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Watchlist",
+    "summary": "CIDRAP's 2026 update lists Novavax Nano-Flu and CIC among candidates moved from active to inactive/static status; dashboard users should not interpret the programme as near-term unless status changes.",
+    "tags": [
+      "inactive/static",
+      "CIDRAP",
+      "status"
+    ]
+  },
+  {
+    "id": "FLU-OVX836-CIDRAP-2026",
+    "title": "CIDRAP landscape record for OVX836",
+    "product_id": "osivax-ovx836",
+    "product": "OVX836",
+    "developer": "Osivax",
+    "platform": "recombinant nucleoprotein nanoparticle",
+    "development_stage": "Phase 2",
+    "jurisdictions": [
+      "France",
+      "European Union",
+      "United States",
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults and older adults depending trial",
+    "outcomes": [
+      "active phase 2",
+      "broadly protective",
+      "nucleoprotein target"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Watchlist",
+    "summary": "OVX836 is tracked as an active phase 2 broadly protective candidate based on a self-assembling nucleoprotein nanoparticle approach.",
+    "tags": [
+      "universal",
+      "nucleoprotein",
+      "phase 2",
+      "Osivax"
+    ]
+  },
+  {
+    "id": "FLU-OVX836-MECHANISM-2026",
+    "title": "OVX836 conserved nucleoprotein mechanism and cellular response tracking",
+    "product_id": "osivax-ovx836",
+    "product": "OVX836",
+    "developer": "Osivax",
+    "platform": "recombinant nucleoprotein nanoparticle",
+    "development_stage": "Phase 2",
+    "jurisdictions": [
+      "European Union",
+      "Global"
+    ],
+    "evidence_domain": "Correlates/mechanism",
+    "evidence_type": "Phase 2",
+    "population": "Adults and older adults",
+    "outcomes": [
+      "T-cell response",
+      "antibody response",
+      "breadth",
+      "conserved antigen"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Watchlist",
+    "summary": "Because OVX836 targets conserved nucleoprotein rather than seasonal HA, its evidence should be mapped to breadth, cellular immunity, and correlate-of-protection domains.",
+    "tags": [
+      "correlates",
+      "T cell",
+      "conserved antigen",
+      "breadth"
+    ]
+  },
+  {
+    "id": "FLU-BPL1357-CIDRAP-2026",
+    "title": "CIDRAP landscape record for BPL-1357",
+    "product_id": "niaid-bpl-1357",
+    "product": "BPL-1357",
+    "developer": "NIAID / FluGen",
+    "platform": "inactivated whole-virus mixture; intranasal or intramuscular",
+    "development_stage": "Phase 2 challenge / early clinical",
+    "jurisdictions": [
+      "United States",
+      "Global"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Healthy adults",
+    "outcomes": [
+      "active phase 2",
+      "broadly protective",
+      "intranasal",
+      "challenge model"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Watchlist",
+    "summary": "BPL-1357 is an active broadly protective candidate using inactivated avian influenza strains, with intranasal and intramuscular routes represented in clinical development.",
+    "tags": [
+      "universal",
+      "NIAID",
+      "intranasal",
+      "phase 2"
+    ]
+  },
+  {
+    "id": "FLU-BPL1357-CHALLENGE-NCT07215858-2026",
+    "title": "BPL-1357 phase 2 influenza challenge study",
+    "product_id": "niaid-bpl-1357",
+    "product": "BPL-1357",
+    "developer": "NIAID / FluGen",
+    "platform": "inactivated whole-virus mixture; intranasal or intramuscular",
+    "development_stage": "Phase 2 challenge / early clinical",
+    "jurisdictions": [
+      "United States"
+    ],
+    "evidence_domain": "Clinical efficacy",
+    "evidence_type": "Challenge study",
+    "population": "Healthy adults 18–55 years",
+    "outcomes": [
+      "challenge protection",
+      "symptomatic influenza",
+      "mucosal immunity",
+      "cellular immunity"
+    ],
+    "source_group": "Clinical trial registry",
+    "source_title": "ClinicalTrials.gov NCT07215858",
+    "source_url": "https://clinicaltrials.gov/study/NCT07215858",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Watchlist",
+    "summary": "Recruiting phase 2 challenge evidence should be mapped as a future high-value source for mucosal protection and broadly protective influenza vaccine correlates.",
+    "tags": [
+      "challenge",
+      "mucosal",
+      "NCT07215858",
+      "BPL-1357"
+    ]
+  },
+  {
+    "id": "FLU-CIDRAP-LANDSCAPE-OVERVIEW-2026",
+    "title": "CIDRAP universal and next-generation influenza vaccine technology landscape overview",
+    "product_id": "landscape-crosscutting",
+    "product": "Cross-cutting pipeline",
+    "developer": "Multiple",
+    "platform": "Multiple platforms",
+    "development_stage": "Landscape",
+    "jurisdictions": [
+      "Global",
+      "United States",
+      "European Union",
+      "Canada"
+    ],
+    "evidence_domain": "Pipeline landscape",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "All populations",
+    "outcomes": [
+      "pipeline count",
+      "active clinical trials",
+      "platform distribution",
+      "stage distribution"
+    ],
+    "source_group": "Landscape database",
+    "source_title": "CIDRAP Universal Influenza Vaccine Technology Landscape",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape",
+    "source_date": "2026-07-02",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "High",
+    "summary": "Landscape database provides a broad candidate inventory and is the main source for systematic pipeline surveillance and gap identification.",
+    "tags": [
+      "landscape",
+      "pipeline",
+      "global",
+      "next-generation"
+    ]
+  },
+  {
+    "id": "FLU-CDC-ACIP-2026-27-COMPOSITION",
+    "title": "CDC/FDA 2026–2027 US influenza vaccine composition",
+    "product_id": "policy-crosscutting",
+    "product": "Licensed seasonal influenza vaccines",
+    "developer": "Multiple",
+    "platform": "Egg-based, cell-based, recombinant, live attenuated, mRNA pending",
+    "development_stage": "Authorized seasonal vaccines / policy context",
+    "jurisdictions": [
+      "United States"
+    ],
+    "evidence_domain": "Regulatory/policy",
+    "evidence_type": "Policy/guideline",
+    "population": "All recommended age groups",
+    "outcomes": [
+      "vaccine strain composition",
+      "trivalent formulation",
+      "B/Yamagata removal"
+    ],
+    "source_group": "Regulatory agency",
+    "source_title": "CDC 2026–2027 flu season vaccine composition",
+    "source_url": "https://www.cdc.gov/flu/season/2026-2027.html",
+    "source_date": "2026-06-10",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Policy/composition context should be tracked because in-development seasonal vaccines need to align with current trivalent strain recommendations and comparator standards.",
+    "tags": [
+      "ACIP",
+      "CDC",
+      "composition",
+      "2026-2027"
+    ]
+  },
+  {
+    "id": "FLU-WHO-NH-COMPOSITION-2026",
+    "title": "WHO 2026–2027 Northern Hemisphere influenza vaccine composition recommendation",
+    "product_id": "policy-crosscutting",
+    "product": "Licensed and candidate seasonal influenza vaccines",
+    "developer": "Multiple",
+    "platform": "Multiple platforms",
+    "development_stage": "Policy context",
+    "jurisdictions": [
+      "Global",
+      "Canada",
+      "United States",
+      "European Union"
+    ],
+    "evidence_domain": "Regulatory/policy",
+    "evidence_type": "Policy/guideline",
+    "population": "All recommended age groups",
+    "outcomes": [
+      "Northern Hemisphere composition",
+      "trivalent formulation",
+      "strain selection"
+    ],
+    "source_group": "Public health agency",
+    "source_title": "WHO recommendations for 2026–2027 Northern Hemisphere influenza vaccine composition",
+    "source_url": "https://www.who.int/news/item/27-02-2026-recommendations-for-influenza-vaccine-composition-for-the-2026-2027-northern-hemisphere-season",
+    "source_date": "2026-02-27",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "WHO Northern Hemisphere composition recommendations are core context for strain-matched candidate vaccines and regulatory comparators in Canada, the US, and Europe.",
+    "tags": [
+      "WHO",
+      "composition",
+      "Northern Hemisphere",
+      "strain selection"
+    ]
+  },
+  {
+    "id": "FLU-EMA-EU-COMPOSITION-2026",
+    "title": "EMA EU 2026–2027 seasonal flu vaccine composition recommendation",
+    "product_id": "policy-crosscutting",
+    "product": "Licensed and candidate seasonal influenza vaccines",
+    "developer": "Multiple",
+    "platform": "Multiple platforms",
+    "development_stage": "Policy context",
+    "jurisdictions": [
+      "European Union"
+    ],
+    "evidence_domain": "Regulatory/policy",
+    "evidence_type": "Policy/guideline",
+    "population": "All recommended age groups",
+    "outcomes": [
+      "EU composition",
+      "WHO alignment",
+      "B/Yamagata removal"
+    ],
+    "source_group": "Regulatory agency",
+    "source_title": "EMA recommendations for 2026/2027 seasonal flu vaccine composition",
+    "source_url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
+    "source_date": "2026-03-01",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "EMA composition guidance provides EU-specific context for seasonal influenza product comparisons and any candidate seeking European availability.",
+    "tags": [
+      "EMA",
+      "composition",
+      "EU",
+      "policy"
+    ]
+  },
+  {
+    "id": "FLU-NACI-2026-27-RECOMMENDATION",
+    "title": "Canada NACI 2026–2027 seasonal influenza vaccine statement summary",
+    "product_id": "policy-crosscutting",
+    "product": "Licensed seasonal influenza vaccines",
+    "developer": "Multiple",
+    "platform": "Multiple platforms",
+    "development_stage": "Policy context",
+    "jurisdictions": [
+      "Canada"
+    ],
+    "evidence_domain": "Regulatory/policy",
+    "evidence_type": "Policy/guideline",
+    "population": "Everyone ≥6 months without contraindication; priority groups",
+    "outcomes": [
+      "annual recommendation",
+      "Canadian programme context",
+      "priority groups"
+    ],
+    "source_group": "Public health agency",
+    "source_title": "NACI summary statement on seasonal influenza vaccine for 2026–2027",
+    "source_url": "https://www.canada.ca/en/public-health/services/publications/vaccines-immunization/national-advisory-committee-immunization-summary-statement-seasonal-influenza-vaccines-2026-2027.html",
+    "source_date": "2026-05-01",
+    "map_updated": "2026-07-03",
+    "verification": "seed-manual",
+    "priority": "Medium",
+    "summary": "Canadian recommendation context is necessary for prioritizing candidates likely to affect Canada once authorized or submitted.",
+    "tags": [
+      "NACI",
+      "Canada",
+      "policy",
+      "annual recommendation"
+    ]
+  },
+  {
+    "id": "FLU-MRNA-CORRELATES-PLACEHOLDER",
+    "title": "Priority gap: standardized correlates for mRNA seasonal influenza vaccines",
+    "product_id": "gap-crosscutting",
+    "product": "Cross-cutting evidence gap",
+    "developer": "Multiple",
+    "platform": "mRNA and modified mRNA",
+    "development_stage": "Gap",
+    "jurisdictions": [
+      "Canada",
+      "United States",
+      "European Union",
+      "Global"
+    ],
+    "evidence_domain": "Correlates/mechanism",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Adults ≥50 years; older adults; immunocompromised groups",
+    "outcomes": [
+      "correlates of protection",
+      "HAI limitations",
+      "cellular responses",
+      "durability"
+    ],
+    "source_group": "Curator assessment",
+    "source_title": "Evidence map gap assessment",
+    "source_url": "",
+    "source_date": "2026-07-03",
+    "map_updated": "2026-07-03",
+    "verification": "curator-gap",
+    "priority": "High",
+    "summary": "Track whether HAI, neutralization, neuraminidase inhibition, T-cell, or mucosal markers predict protection for newer mRNA and combination vaccines across seasons and age groups.",
+    "tags": [
+      "gap",
+      "correlates",
+      "mRNA",
+      "durability"
+    ]
+  },
+  {
+    "id": "FLU-OLDER-ADULT-RWE-GAP",
+    "title": "Priority gap: post-authorization real-world effectiveness in older adults",
+    "product_id": "gap-crosscutting",
+    "product": "Cross-cutting evidence gap",
+    "developer": "Multiple",
+    "platform": "All platforms",
+    "development_stage": "Gap",
+    "jurisdictions": [
+      "Canada",
+      "United States",
+      "European Union"
+    ],
+    "evidence_domain": "Real-world effectiveness",
+    "evidence_type": "Observational/RWE",
+    "population": "Adults ≥65 years; long-term care residents; high-risk adults",
+    "outcomes": [
+      "test-negative design",
+      "hospitalization",
+      "severe outcomes",
+      "comparative effectiveness"
+    ],
+    "source_group": "Curator assessment",
+    "source_title": "Evidence map gap assessment",
+    "source_url": "",
+    "source_date": "2026-07-03",
+    "map_updated": "2026-07-03",
+    "verification": "curator-gap",
+    "priority": "High",
+    "summary": "As candidates are authorized, the dashboard should prioritize real-world comparative effectiveness against high-dose, adjuvanted, recombinant, and standard-dose comparators in older adults.",
+    "tags": [
+      "gap",
+      "RWE",
+      "older adults",
+      "comparative effectiveness"
+    ]
+  },
+  {
+    "id": "FLU-CANADA-ACCESS-GAP",
+    "title": "Priority gap: Canadian submission, NACI, and procurement signals for new influenza vaccines",
+    "product_id": "gap-crosscutting",
+    "product": "Cross-cutting evidence gap",
+    "developer": "Multiple",
+    "platform": "All platforms",
+    "development_stage": "Gap",
+    "jurisdictions": [
+      "Canada"
+    ],
+    "evidence_domain": "Programmatic/access",
+    "evidence_type": "Landscape / market intelligence",
+    "population": "Canadian public programmes and high-risk groups",
+    "outcomes": [
+      "Health Canada submission",
+      "NACI review",
+      "provincial procurement",
+      "public funding"
+    ],
+    "source_group": "Curator assessment",
+    "source_title": "Evidence map gap assessment",
+    "source_url": "",
+    "source_date": "2026-07-03",
+    "map_updated": "2026-07-03",
+    "verification": "curator-gap",
+    "priority": "High",
+    "summary": "For Canada-specific availability, monitor Health Canada submissions/approvals, NACI recommendation updates, CADTH or provincial procurement signals, and bilingual product monographs.",
+    "tags": [
+      "gap",
+      "Canada",
+      "access",
+      "NACI",
+      "Health Canada"
+    ]
+  },
+  {
+    "id": "FLU-SAFETY-COMBO-GAP",
+    "title": "Priority gap: safety and reactogenicity of coformulated COVID-19 + influenza vaccines",
+    "product_id": "gap-crosscutting",
+    "product": "Cross-cutting evidence gap",
+    "developer": "Multiple",
+    "platform": "Combination vaccines",
+    "development_stage": "Gap",
+    "jurisdictions": [
+      "Canada",
+      "United States",
+      "European Union",
+      "Global"
+    ],
+    "evidence_domain": "Safety/reactogenicity",
+    "evidence_type": "Phase 3 / randomized trial",
+    "population": "Adults ≥50 years; older adults; medically high-risk groups",
+    "outcomes": [
+      "solicited adverse reactions",
+      "serious adverse events",
+      "coadministration",
+      "AESI"
+    ],
+    "source_group": "Curator assessment",
+    "source_title": "Evidence map gap assessment",
+    "source_url": "",
+    "source_date": "2026-07-03",
+    "map_updated": "2026-07-03",
+    "verification": "curator-gap",
+    "priority": "Medium",
+    "summary": "Combination products require careful tracking of reactogenicity, medically attended adverse events, and trade-offs versus separate coadministration of licensed vaccines.",
+    "tags": [
+      "gap",
+      "combination",
+      "safety",
+      "reactogenicity"
+    ]
+  }
+]

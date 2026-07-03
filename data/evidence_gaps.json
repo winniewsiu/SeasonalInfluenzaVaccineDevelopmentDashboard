@@ -1,0 +1,44 @@
+[
+  {
+    "id": "gap-canada-access",
+    "severity": "High",
+    "domain": "Programmatic/access",
+    "title": "Canada availability signals",
+    "detail": "Health Canada submissions, NACI review status, and provincial/public funding signals are often harder to track than FDA/EMA milestones. Add a Canada-specific watchlist tab and a saved query for product monographs and NACI updates."
+  },
+  {
+    "id": "gap-rwe-older-adults",
+    "severity": "High",
+    "domain": "Real-world effectiveness",
+    "title": "Older-adult comparative effectiveness",
+    "detail": "Prioritize test-negative and hospitalization studies comparing new candidates with high-dose, adjuvanted, recombinant, and standard-dose vaccines in adults ≥65 and long-term care residents."
+  },
+  {
+    "id": "gap-b-lineage",
+    "severity": "High",
+    "domain": "Immunogenicity",
+    "title": "B-lineage immunogenicity and strain alignment",
+    "detail": "Several mRNA programmes have highlighted strain-by-strain performance questions. Track B/Victoria responses, trivalent composition changes, and implications of B/Yamagata removal."
+  },
+  {
+    "id": "gap-correlates",
+    "severity": "Medium",
+    "domain": "Correlates/mechanism",
+    "title": "Correlates beyond HAI",
+    "detail": "Capture neuraminidase inhibition, T-cell, mucosal IgA, breadth, durability, and immune-imprinting evidence, especially for mRNA and conserved-antigen candidates."
+  },
+  {
+    "id": "gap-combo-safety",
+    "severity": "Medium",
+    "domain": "Safety/reactogenicity",
+    "title": "Combination vaccine safety/reactogenicity",
+    "detail": "Map safety data separately for coformulated COVID-19 + influenza vaccines versus same-day coadministration of separate licensed products."
+  },
+  {
+    "id": "gap-paediatric",
+    "severity": "Medium",
+    "domain": "Clinical efficacy",
+    "title": "Paediatric and pregnancy evidence",
+    "detail": "Near-term candidates emphasize adults ≥50. Track whether new platforms expand to children, pregnant people, and immunocompromised populations."
+  }
+]

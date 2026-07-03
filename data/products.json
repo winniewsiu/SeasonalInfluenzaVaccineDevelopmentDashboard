@@ -1,0 +1,169 @@
+[
+  {
+    "id": "moderna-mrna-1010",
+    "name": "mFLUSIVA / mRNA-1010",
+    "developer": "Moderna",
+    "platform": "mRNA",
+    "category": "Standalone seasonal influenza",
+    "current_stage": "Regulatory review / phase 3 evidence",
+    "priority": "High",
+    "target_geographies": [
+      "Canada",
+      "United States",
+      "European Union",
+      "Australia"
+    ],
+    "target_population": "Adults ≥50 years; phase 3 studies include adults ≥18 and ≥65 depending study",
+    "availability_signal": "Global regulatory submissions reported for US, EU, Canada, and Australia; FDA VRBPAC discussion scheduled June 18, 2026.",
+    "notes": "Encodes full-length HA antigens for recommended seasonal strains. Lead near-term in-development candidate for Canada/US/EU evidence tracking.",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape"
+  },
+  {
+    "id": "moderna-mrna-1083",
+    "name": "mCOMBRIAX / mRNA-1083",
+    "developer": "Moderna",
+    "platform": "mRNA combination",
+    "category": "COVID-19 + seasonal influenza combination",
+    "current_stage": "EU authorized; phase 3 evidence",
+    "priority": "High",
+    "target_geographies": [
+      "European Union",
+      "United States",
+      "Canada"
+    ],
+    "target_population": "Adults ≥50 years",
+    "availability_signal": "EU marketing authorization issued April 20, 2026; launch timing depends on national recommendations and supply decisions.",
+    "notes": "Combination product contains seasonal influenza HA mRNA components and SARS-CoV-2 spike mRNA components.",
+    "source_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mcombriax"
+  },
+  {
+    "id": "pfizer-biontech-modrna-flu",
+    "name": "Pfizer/BioNTech modified mRNA seasonal influenza vaccine",
+    "developer": "Pfizer / BioNTech",
+    "platform": "modified mRNA",
+    "category": "Standalone seasonal influenza",
+    "current_stage": "Phase 3 completed; active follow-on phase 2 formulation work",
+    "priority": "High",
+    "target_geographies": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Global"
+    ],
+    "target_population": "Adults and older adults; adult challenge/formulation studies ongoing or recently completed",
+    "availability_signal": "Candidate remains active in the pipeline landscape; mixed immune-response findings for B-lineage formulations are a key watch item.",
+    "notes": "Prior phase 3 evidence showed superior efficacy overall but weaker B-lineage immunogenicity than comparator in published/announced studies.",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape"
+  },
+  {
+    "id": "pfizer-biontech-combo",
+    "name": "Pfizer/BioNTech mRNA COVID-19 + influenza combination vaccine",
+    "developer": "Pfizer / BioNTech",
+    "platform": "modified mRNA combination",
+    "category": "COVID-19 + seasonal influenza combination",
+    "current_stage": "Phase 3 / formulation adjustment",
+    "priority": "Medium",
+    "target_geographies": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Global"
+    ],
+    "target_population": "Adults 18–64 and older adults depending study",
+    "availability_signal": "Phase 3 study met one primary immunogenicity objective but did not meet influenza B non-inferiority objective; sponsors reported formulation evaluation.",
+    "notes": "Important comparator for combined respiratory vaccination pathways, but not yet a straightforward near-term flu-only availability signal.",
+    "source_url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-provide-update-mrna-based-combination"
+  },
+  {
+    "id": "gsk-gsk4382276",
+    "name": "GSK seasonal influenza mRNA vaccine programme / GSK4382276",
+    "developer": "GSK",
+    "platform": "mRNA",
+    "category": "Standalone seasonal influenza",
+    "current_stage": "Phase 2; late-stage planning signal",
+    "priority": "Medium",
+    "target_geographies": [
+      "European Union",
+      "United Kingdom",
+      "United States",
+      "Canada"
+    ],
+    "target_population": "Younger and older adults; additional paediatric and combination studies listed in the pipeline",
+    "availability_signal": "Positive phase 2 headline data reported; product not yet authorized.",
+    "notes": "Key evidence needs: phase 3 efficacy, strain-by-strain immune response, safety/reactogenicity, and manufacturing comparability.",
+    "source_url": "https://www.gsk.com/en-gb/media/press-releases/gsk-announces-positive-headline-data-from-phase-ii-seasonal-influenza-mrna-vaccine-programme/"
+  },
+  {
+    "id": "sanofi-novavax-combo",
+    "name": "Sanofi + Novavax non-mRNA COVID-19 + influenza combination candidates",
+    "developer": "Sanofi / Novavax",
+    "platform": "recombinant protein / nanoparticle combination",
+    "category": "COVID-19 + seasonal influenza combination",
+    "current_stage": "Clinical development; FDA Fast Track designation reported",
+    "priority": "Medium",
+    "target_geographies": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Global"
+    ],
+    "target_population": "Adults; specific studies include older adults depending protocol",
+    "availability_signal": "Two candidates combining Sanofi flu products with Novavax COVID antigen/adjuvant received FDA Fast Track designation in 2024.",
+    "notes": "Primarily relevant to combined seasonal respiratory vaccination access, not a new standalone influenza antigen platform.",
+    "source_url": "https://www.sanofi.com/en/media-room/press-releases/2024/2024-12-11-06-00-00-2995072"
+  },
+  {
+    "id": "novavax-tniv-cic",
+    "name": "Novavax stand-alone influenza vaccine / COVID-19 influenza combination programme",
+    "developer": "Novavax",
+    "platform": "recombinant nanoparticle + Matrix-M adjuvant",
+    "category": "Standalone seasonal influenza and combination",
+    "current_stage": "Phase 2/3 evidence; available for partnership/no current investment signal",
+    "priority": "Watchlist",
+    "target_geographies": [
+      "United States",
+      "European Union",
+      "Canada",
+      "Global"
+    ],
+    "target_population": "Adults ≥65 years in initial phase 3 cohort",
+    "availability_signal": "Robust immune responses reported in initial cohort, but company programme page lists no current investment for flu and combination programmes.",
+    "notes": "Keep in evidence map because prior NanoFlu evidence and partnership status may affect future availability.",
+    "source_url": "https://www.novavax.com/disease-areas/covid-19-and-influenza"
+  },
+  {
+    "id": "osivax-ovx836",
+    "name": "OVX836",
+    "developer": "Osivax",
+    "platform": "recombinant nucleoprotein nanoparticle",
+    "category": "Broadly protective / universal influenza candidate",
+    "current_stage": "Phase 2",
+    "priority": "Watchlist",
+    "target_geographies": [
+      "European Union",
+      "United States",
+      "Global"
+    ],
+    "target_population": "Adults and older adults depending phase 2 study",
+    "availability_signal": "Active phase 2 broad-protection programme; not a seasonal strain-matched vaccine near authorization.",
+    "notes": "Useful for correlates/mechanism and breadth evidence rather than immediate seasonal product availability.",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape"
+  },
+  {
+    "id": "niaid-bpl-1357",
+    "name": "BPL-1357",
+    "developer": "NIAID / FluGen",
+    "platform": "inactivated whole-virus mixture; intranasal or intramuscular",
+    "category": "Broadly protective / universal influenza candidate",
+    "current_stage": "Phase 2 challenge / early clinical",
+    "priority": "Watchlist",
+    "target_geographies": [
+      "United States",
+      "Global"
+    ],
+    "target_population": "Healthy adults in challenge studies",
+    "availability_signal": "Recruiting phase 2 challenge study in the United States; not near routine seasonal vaccine availability.",
+    "notes": "Evidence map should capture mucosal immunity, challenge protection, and breadth as future-season correlates evidence.",
+    "source_url": "https://ivr.cidrap.umn.edu/universal-influenza-vaccine-technology-landscape"
+  }
+]

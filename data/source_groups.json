@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Peer-reviewed",
+    "description": "PubMed-indexed journal articles and pre-specified systematic reviews. Highest weight for efficacy, immunogenicity, safety, and correlates evidence.",
+    "automation": "scripts/fetch_pubmed.py"
+  },
+  {
+    "name": "Clinical trial registry",
+    "description": "ClinicalTrials.gov, EU Clinical Trials Register/CTIS, ISRCTN, and sponsor registries. Use for trial status, eligibility, locations, and primary outcomes.",
+    "automation": "scripts/fetch_clinicaltrials.py"
+  },
+  {
+    "name": "Regulatory agency",
+    "description": "FDA, EMA, Health Canada, MHRA, and official advisory committee material. Use for authorizations, labels, review packages, and vaccine composition.",
+    "automation": "Manual + saved source list"
+  },
+  {
+    "name": "Public health agency",
+    "description": "WHO, CDC/ACIP, NACI/PHAC, ECDC, and national immunization technical advisory group guidance.",
+    "automation": "Manual + saved source list"
+  },
+  {
+    "name": "Developer communication",
+    "description": "Sponsor press releases, annual reports, pipeline pages, and investor presentations. Treat as availability signals, not standalone proof of efficacy.",
+    "automation": "scripts/fetch_pubmed.py plus manual review"
+  },
+  {
+    "name": "Landscape database",
+    "description": "CIDRAP universal influenza vaccine technology landscape and other curated R&D pipeline databases.",
+    "automation": "Manual snapshot + change log"
+  },
+  {
+    "name": "Curator assessment",
+    "description": "Evidence gaps, synthesis notes, and decisions made by dashboard curators. Must include clear rationale and date.",
+    "automation": "Manual"
+  }
+]

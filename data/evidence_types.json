@@ -1,0 +1,38 @@
+[
+  {
+    "id": "preclinical",
+    "label": "Preclinical"
+  },
+  {
+    "id": "phase-1",
+    "label": "Phase 1"
+  },
+  {
+    "id": "phase-2",
+    "label": "Phase 2"
+  },
+  {
+    "id": "phase-3-rct",
+    "label": "Phase 3 / randomized trial"
+  },
+  {
+    "id": "challenge",
+    "label": "Challenge study"
+  },
+  {
+    "id": "regulatory",
+    "label": "Regulatory"
+  },
+  {
+    "id": "policy-guideline",
+    "label": "Policy/guideline"
+  },
+  {
+    "id": "observational-rwe",
+    "label": "Observational/RWE"
+  },
+  {
+    "id": "landscape",
+    "label": "Landscape / market intelligence"
+  }
+]

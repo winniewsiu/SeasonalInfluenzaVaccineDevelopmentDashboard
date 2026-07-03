@@ -1,0 +1,42 @@
+[
+  {
+    "id": "clinical-efficacy",
+    "label": "Clinical efficacy",
+    "description": "Randomized, challenge, or real-world evidence that the vaccine prevents influenza infection or illness."
+  },
+  {
+    "id": "immunogenicity",
+    "label": "Immunogenicity",
+    "description": "HAI, neutralization, seroconversion, seroprotection, cell-mediated, mucosal, or other immune responses."
+  },
+  {
+    "id": "safety-reactogenicity",
+    "label": "Safety/reactogenicity",
+    "description": "Solicited and unsolicited adverse events, serious adverse events, AESIs, tolerability, discontinuations."
+  },
+  {
+    "id": "correlates-mechanism",
+    "label": "Correlates/mechanism",
+    "description": "Evidence on correlates of protection, breadth, durability, conserved antigens, immune imprinting, or mechanism."
+  },
+  {
+    "id": "regulatory-policy",
+    "label": "Regulatory/policy",
+    "description": "Regulatory submissions, authorizations, advisory committee material, national recommendations, vaccine composition."
+  },
+  {
+    "id": "programmatic-access",
+    "label": "Programmatic/access",
+    "description": "Implementation, availability, manufacturing, commercialization, supply, target population, market access signals."
+  },
+  {
+    "id": "pipeline-landscape",
+    "label": "Pipeline landscape",
+    "description": "Landscape summaries, stage transitions, portfolio status, and technology platform surveillance."
+  },
+  {
+    "id": "real-world-effectiveness",
+    "label": "Real-world effectiveness",
+    "description": "Post-authorization effectiveness, observational studies, surveillance, and effectiveness by season or population."
+  }
+]
