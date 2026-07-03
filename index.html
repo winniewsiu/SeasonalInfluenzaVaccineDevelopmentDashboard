@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Seasonal Influenza Vaccine Evidence Map</title>
+  <meta name="description" content="Evidence dashboard for seasonal influenza vaccines in development and near availability in Canada, the United States, and Europe." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <a class="skip" href="#records">Skip to evidence records</a>
+  <header class="site-header">
+    <div class="header-copy">
+      <p class="eyebrow">Evidence dashboard scaffold · seeded map as of 2026-07-03</p>
+      <h1>Seasonal influenza vaccine evidence map</h1>
+      <p class="lede">A source-backed dashboard for seasonal influenza vaccine candidates and combination products with potential relevance to Canada, the United States, Europe, and comparable regulatory settings.</p>
+      <div class="header-actions">
+        <a href="#matrix" class="button button-primary">View matrix</a>
+        <a href="#records" class="button">Browse records</a>
+        <a href="README.md" class="button">Build guide</a>
+      </div>
+    </div>
+    <aside class="header-panel" aria-label="Dashboard scope">
+      <h2>Scope</h2>
+      <p><strong>Primary focus:</strong> seasonal influenza vaccines and flu-containing combination vaccines in active development, regulatory review, or early authorization.</p>
+      <p><strong>Priority geographies:</strong> Canada, United States, European Union, United Kingdom, Australia, and similar high-income seasonal vaccine markets.</p>
+      <p><strong>Important:</strong> Seed records are manually curated starters, not an exhaustive systematic review.</p>
+    </aside>
+  </header>
+
+  <main>
+    <section class="stats-grid" aria-label="Evidence summary">
+      <article class="stat-card">
+        <span class="stat-label">Evidence records</span>
+        <strong id="stat-records">—</strong>
+        <span class="stat-foot">seed + gap records</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Visible records</span>
+        <strong id="stat-visible">—</strong>
+        <span class="stat-foot">after filters</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">Tracked products</span>
+        <strong id="stat-products">—</strong>
+        <span class="stat-foot">priority + watchlist</span>
+      </article>
+      <article class="stat-card">
+        <span class="stat-label">High-priority gaps</span>
+        <strong id="stat-gaps">—</strong>
+        <span class="stat-foot">curator-defined</span>
+      </article>
+    </section>
+
+    <section class="panel" id="sources">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Source strategy</p>
+          <h2>Sources searched and weighting</h2>
+        </div>
+        <button class="button button-small" id="copy-source-list">Copy source groups</button>
+      </div>
+      <div id="source-groups" class="source-grid"></div>
+    </section>
+
+    <section class="panel" id="filters" aria-label="Evidence filters">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Interactive filters</p>
+          <h2>Filter the evidence map</h2>
+        </div>
+        <div class="inline-actions">
+          <button id="reset-filters" class="button button-small">Reset filters</button>
+          <button id="export-csv" class="button button-small">Export visible CSV</button>
+        </div>
+      </div>
+      <div class="filters-grid">
+        <label>
+          Search
+          <input id="filter-search" type="search" placeholder="mRNA-1010, Canada, B lineage, safety…" />
+        </label>
+        <label>
+          Product / candidate
+          <select id="filter-product"><option value="">All</option></select>
+        </label>
+        <label>
+          Evidence domain
+          <select id="filter-domain"><option value="">All</option></select>
+        </label>
+        <label>
+          Evidence type
+          <select id="filter-type"><option value="">All</option></select>
+        </label>
+        <label>
+          Geography
+          <select id="filter-jurisdiction"><option value="">All</option></select>
+        </label>
+        <label>
+          Development stage
+          <select id="filter-stage"><option value="">All</option></select>
+        </label>
+        <label>
+          Source group
+          <select id="filter-source"><option value="">All</option></select>
+        </label>
+        <label>
+          Priority
+          <select id="filter-priority"><option value="">All</option></select>
+        </label>
+        <label>
+          Date basis
+          <select id="date-basis">
+            <option value="source_date">Source date</option>
+            <option value="map_updated">Map update date</option>
+          </select>
+        </label>
+        <label>
+          Updated since
+          <input id="filter-date" type="date" />
+        </label>
+      </div>
+      <p id="active-filter-text" class="muted"></p>
+    </section>
+
+    <section class="panel" id="matrix">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Evidence matrix</p>
+          <h2>Evidence by domain and evidence type</h2>
+        </div>
+        <p class="muted">Click any populated cell to filter records.</p>
+      </div>
+      <div class="matrix-wrap" role="region" aria-label="Evidence matrix" tabindex="0">
+        <table id="evidence-matrix" class="matrix"></table>
+      </div>
+      <div class="legend" aria-label="Heat legend">
+        <span>Fewer records</span>
+        <span class="legend-cell level-1"></span>
+        <span class="legend-cell level-2"></span>
+        <span class="legend-cell level-3"></span>
+        <span class="legend-cell level-4"></span>
+        <span>More records</span>
+      </div>
+    </section>
+
+    <section class="panel" id="products">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Priority pipeline</p>
+          <h2>Products and candidates to track</h2>
+        </div>
+      </div>
+      <div id="product-grid" class="product-grid"></div>
+    </section>
+
+    <section class="panel" id="records">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Evidence records</p>
+          <h2>Record cards</h2>
+        </div>
+        <button id="copy-record-ids" class="button button-small">Copy visible IDs</button>
+      </div>
+      <div id="records-list" class="records-list" aria-live="polite"></div>
+    </section>
+
+    <section class="panel" id="gaps">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Evidence gaps</p>
+          <h2>Priority gaps for curator follow-up</h2>
+        </div>
+      </div>
+      <div id="gap-list" class="gap-list"></div>
+    </section>
+
+    <section class="panel" id="method">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Method and provenance</p>
+          <h2>How this dashboard should be maintained</h2>
+        </div>
+      </div>
+      <div class="method-grid">
+        <article>
+          <h3>Verification labels</h3>
+          <p><strong>seed-manual</strong> records were manually entered with a source URL. <strong>auto-unverified</strong> records are harvested by scripts and must be checked before synthesis. <strong>curator-gap</strong> entries are evidence-map priorities rather than external evidence.</p>
+        </article>
+        <article>
+          <h3>Review cadence</h3>
+          <p>Run automated source checks weekly. Manually review regulatory agency pages before influenza vaccine advisory committee meetings, WHO/FDA/EMA strain-composition updates, and sponsor quarterly results.</p>
+        </article>
+        <article>
+          <h3>Inclusion rule</h3>
+          <p>Include records if they concern seasonal influenza vaccine efficacy, immunogenicity, safety, regulatory status, policy, access, or correlates; prioritize candidates plausibly relevant to Canada, the US, Europe, or comparable markets.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Seasonal influenza evidence map scaffold. Use for evidence surveillance and synthesis support, not as clinical or regulatory advice.</p>
+    <p><a href="README.md">Repository build guide</a> · <a href="data/evidence_records.json">Evidence JSON</a> · <a href="data/products.json">Product JSON</a></p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
